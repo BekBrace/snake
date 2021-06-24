@@ -1,9 +1,8 @@
 # snake
 snake game with python (turtle module)
 
-Hey what's going on guys and welcome to a new series of Modules in Python
 
-today's module is the Turtle moduand we 're going to have a look at what it offers through
+Today's module is the Turtle module and we 're going to have a look at what it offers through
 
 desiginig and building  the famous SNAKE game, and I remember the first time I have played it was on Nokia 3310 
 
